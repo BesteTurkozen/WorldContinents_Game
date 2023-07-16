@@ -33,7 +33,7 @@ while len(guessed_continents) < 9:
 screen.mainloop()
 
 
-#konum bulmak için kod
+#code to find locations
 #def get_mouse_click_coor(x,y):
 #     print(x,y)
 # turtle.onscreenclick(get_mouse_click_coor)
